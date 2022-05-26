@@ -1,0 +1,6 @@
+node_modules/
+parceled/
+dist/
+package-lock.json
+.vscode/
+.cache/
